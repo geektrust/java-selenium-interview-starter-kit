@@ -5,7 +5,7 @@
     <groupId>com.geektrust.selenium</groupId>
     <artifactId>java-selenium-interview-starter-kit</artifactId>
     <packaging>jar</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>java-selenium-interview-starter-kit</name>
     <url>http://maven.apache.org</url>
 
