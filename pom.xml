@@ -4,7 +4,7 @@
     <groupId>com.geektrust.selenium</groupId>
     <artifactId>java-selenium-interview-starter-kit</artifactId>
     <packaging>jar</packaging>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <name>java-selenium-interview-starter-kit</name>
     <url>http://maven.apache.org</url>
 
@@ -17,7 +17,7 @@
         <dependency>
             <groupId>com.geektrust.selenium</groupId>
             <artifactId>lambdatest-remote-selenium-webdriver</artifactId>
-            <version>1.0.1</version>
+            <version>1.0.2</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
